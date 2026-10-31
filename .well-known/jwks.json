@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "n": "4wBuNk8as6TEcJF-QdqCXxml8dzenx28uf-s2R70Q0DtqxE6cx4RDnciYXidyH7V0z-JoMVlsNdmIxRU33HzKlD2a7O5bXgBHTsP873f9Be12iTaf3J3y3Z43fTxNbOfCtVqdR0csL2bp7XQAFWypbninDqR4ArkVxKioNP0NT7YhWayPK3IKZ2ZkHCgY8aCUsAGOl82eDvYIxlQLiURaxNJ7TjX9ZWPZsAjRBltW72FZ6uUJxC8VakIeq8z06Mw2s0AOsLrjGk7oVK-1Fv-Zl28DKJg1einKMOZQ80AzYV3iJYpjcOfUx4G9IJFMO766xsigEISLpcIQo1tiw83BQ",
+      "e": "AQAB",
+      "kid": "my-backend-app-key-1",
+      "use": "sig",
+      "alg": "RS384"
+    }
+  ]
+}
